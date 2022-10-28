@@ -1,6 +1,6 @@
 # Discovery of Handwashing
 
-![App Screenshot](https://github.com/aycetiner/predicting-credit-card-approvals/blob/main/images/credit_card.jpg)
+![App Screenshot](https://github.com/aycetiner/discovery-of-handwashing/blob/main/images/ignaz_semmelweis_1860.jpeg)
 
 ## Summary
 
